@@ -83,8 +83,8 @@ Though highly subjective, here are some recommended looks.
  - 80 -> Neutral 
  - 90 -> Speed
 
-
  ##### Is the 990v5 right for me?
+ 
  > The 990v5 is a well-optimized shoe for both running and everday use. Additionally, the shoe provides great stability for runners requiring balanced arch-support
 
  *More FAQs can be found [here](https://support.newbalance.com/s/)*
