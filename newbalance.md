@@ -9,7 +9,7 @@
 - [Product Details](#product-details)
 - [Anatomy](#anatomy)
 - [Predecessors](#predecessors)
-- [The Lookbook](#the-lookbook)
+- [Lookbook](#lookbook)
 
 ---
 
@@ -82,7 +82,7 @@ The modern 990v4 sneaker (2016) performs as a comfortable everyday-shoe and stab
 
 ---
 
-## The Lookbook
+## Lookbook
 
 ![990v5_look_one](https://www.newbalance.com/dw/image/v2/AAGI_PRD/on/demandware.static/-/Library-Sites-NBUS-NBCA/default/dwa79a24e1/images/page-designer/2020/july/11066_Component_E_image_1.jpg?sw=683&sfrm=jpg)
 
