@@ -1,4 +1,4 @@
-# ReadMe
+# README
 
 - [Introduction](#introduction)
 - [Description of Equipment & List of Materials](#description-of-equipment-&-list-of-materials)
