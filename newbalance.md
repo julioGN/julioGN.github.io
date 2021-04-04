@@ -47,9 +47,9 @@ Style #: M990GL5
 
 ## Anatomy
 
-![990v5_anatomy1](https://github.com/julioGN/hw/blob/main/anatomyOne.png?raw=true)
+![990v5_anatomy1](https://drive.google.com/file/d/13AiNZeP7WtxY3nR8NQJ8G3s6YhytsIPV/view?usp=sharing)
 
-![990v5_anatomy2](https://github.com/julioGN/hw/blob/main/anatomy2.png?raw=true)
+![990v5_anatomy2](https://drive.google.com/file/d/1sg2DZzTSEdU3DkASO5TadinWOgw7HasW/view?usp=sharing)
 
 *The external structure of the Made in US 990v5 sneakers*
 
