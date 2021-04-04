@@ -43,9 +43,8 @@ Though highly subjective, here are some recommended looks.
 
 ![look_three](https://www.newbalance.com/dw/image/v2/AAGI_PRD/on/demandware.static/-/Library-Sites-NBUS-NBCA/default/dwa9f80350/images/page-designer/2020/july/11070_Component_E_image_1.jpg?sw=683&sfrm=jpg)
 
-![look_four](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjoKQ6KTkYXV_b3PhhCiFIWxhEv9Uo0ZRPIw&usqp=CAU)
-
 ![look_five](https://sixfiguresneakerhead.com/media/New-Balance-990V5-574-My-Story-Matters-Jaden-Smith.jpg) 
+
 *Note: These NB 990v5 (Angora with purple) sneakers are a part of the "My Story Matters" collection*
 
 ---
