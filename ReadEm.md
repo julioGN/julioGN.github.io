@@ -109,3 +109,10 @@ If you are an avid runner, it is recommended that you get a new pair after 500 m
 *Note: 500 miles is an estimate. The shoe mileage is subject to change; the shoe mileage varies depending on body weight, environment, and intensity.*
 
 ---
+
+> - [return to index](https://juliogn.github.io/index.html)
+
+
+> - [go to New Balance Documentation](https://juliogn.github.io/newbalance.html)
+
+--
