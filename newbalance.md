@@ -62,6 +62,7 @@ Style #: M990GL5
 The original New Balance 990, debuted in 1982, provides the founding silhouette for contemporary 99X sneakers. 
 
 ![990v2](https://snkryard.com/products/images/sx/new-balance-990-v2-kith-grey.jpg) 
+
 *NB 990v2 (Kith Grey)*
 
 The 990v2 sneakers (1998) improved the look and feel of the original shoes. 
@@ -72,6 +73,7 @@ The 990v2 sneakers (1998) improved the look and feel of the original shoes.
 The 990v3 (2012) implemented high-end technology for a more supportive and comfortable shoe. 
 
 ![990v4](https://images.garmentory.com/images/2817947/large/New-Balance-990v4---Grey-20190710202014.jpg?1562790019) 
+
 *NB 990v4 (Grey)*
 
 The modern 990v4 sneaker (2016) performs as a comfortable everyday-shoe and stable running shoe, second only to the 990v5 (2019). 
