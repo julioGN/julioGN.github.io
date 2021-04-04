@@ -10,6 +10,7 @@
 - [Anatomy](#anatomy)
 - [Predecessors](#predecessors)
 - [The Lookbook](#the-lookbook)
+
 ---
 
 ## Introduction
