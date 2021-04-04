@@ -1,6 +1,6 @@
 # New Balance Documentation
 
 - [New Balance Documentation](https://juliogn.github.io/newbalance.html)
-- [README](https://juliogn.github.io/README.html)
+- [README](https://juliogn.github.io/ReadMe.html)
 
-> please choose a link above
+> choose a link above

@@ -95,7 +95,7 @@ The modern 990v4 sneaker (2016) performs as a comfortable everyday-shoe and stab
 > - [return to index](https://juliogn.github.io/index.html)
 
 
-> - [go to README](https://github.com/julioGN/julioGN.github.io/blob/main/README.md)
+> - [go to README](https://juliogn.github.io/ReadMe.html)
 
 ---
 
