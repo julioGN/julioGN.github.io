@@ -72,9 +72,11 @@ Though highly subjective, here are some recommended looks.
 ### FAQs
 
 ##### What do the numbers next to the sneakers mean?
+
 > Usually, the higher-numbered sneakers are crafted with more first-rate technology than the lower-numbered sneakers
 
 ##### Do the ending two numbers mean anything in the name of the sneaker?
+
 > Yes.
  - 40 -> Optimal control
  - 50 -> Fitness running
@@ -84,7 +86,7 @@ Though highly subjective, here are some recommended looks.
  - 90 -> Speed
 
  ##### Is the 990v5 right for me?
- 
+
  > The 990v5 is a well-optimized shoe for both running and everday use. Additionally, the shoe provides great stability for runners requiring balanced arch-support
 
  *More FAQs can be found [here](https://support.newbalance.com/s/)*
@@ -116,4 +118,3 @@ If you are an avid runner, it is recommended that you get a new pair after 500 m
 
 > - [go to New Balance Documentation](https://juliogn.github.io/newbalance.html)
 
---
