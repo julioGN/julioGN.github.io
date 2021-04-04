@@ -45,7 +45,8 @@ Though highly subjective, here are some recommended looks.
 
 ![look_four](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjoKQ6KTkYXV_b3PhhCiFIWxhEv9Uo0ZRPIw&usqp=CAU)
 
-![look_five](https://sixfiguresneakerhead.com/media/New-Balance-990V5-574-My-Story-Matters-Jaden-Smith.jpg) *Note: These NB 990v5 (Angora with purple) sneakers are a part of the "My Story Matters" collection*
+![look_five](https://sixfiguresneakerhead.com/media/New-Balance-990V5-574-My-Story-Matters-Jaden-Smith.jpg) 
+*Note: These NB 990v5 (Angora with purple) sneakers are a part of the "My Story Matters" collection*
 
 ---
 
